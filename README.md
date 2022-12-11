@@ -1,0 +1,1 @@
+# octobercms-installation-script
